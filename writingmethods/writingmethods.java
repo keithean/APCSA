@@ -2,19 +2,14 @@ import java.util.Scanner;
 
 public class writingmethods {
     public static void main(String[] args) {
-        // Call the method for scenario 1
         scenario1();
 
-        // Call the method for scenario 2
         scenario2();
 
-        // Call the method for scenario 3
         scenario3();
 
-        // Call the method for scenario 4
         scenario4();
 
-        // Call the method for scenario 5
         scenario5();
     }
 
