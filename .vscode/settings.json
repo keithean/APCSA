@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "passwordmaker",
         "magiceightball",
         "lunarnewyear",
         "guessinggame",
-        "passwordmaker"
+        "writingmethods"
     ]
 }
